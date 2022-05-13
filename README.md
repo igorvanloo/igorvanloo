@@ -16,3 +16,4 @@ Other media platforms:
 
 ![Profile views](https://gpvc.arturio.dev/igorvanloo) 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=igorvanloo)  
