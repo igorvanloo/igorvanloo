@@ -1,5 +1,3 @@
-### Hi there 👋, I'm Igor
-
 I'm a student at Nanyang Technological University Singapore studying Pure Mathematics, but I also really enjoy programming, and hence am building up my repository!
 
 I like making games, and solving coding challenges, especially Project Euler, to better my understanding.
