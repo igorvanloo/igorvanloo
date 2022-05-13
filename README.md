@@ -16,4 +16,5 @@ Other media platforms:
 
 ![Profile views](https://gpvc.arturio.dev/igorvanloo) 
 
+## Recent activity
 <!--START_SECTION:activity-->
