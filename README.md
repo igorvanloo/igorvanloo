@@ -1,4 +1,4 @@
-I'm a student at Nanyang Technological University Singapore studying Pure Mathematics, but I also really enjoy programming, and hence am building up my repository!
+I'm a PhD student at Nanyang Technological University Singapore studying the Equiangular Line problem in Complex Spaces, but I also really enjoy programming, and hence am building up my repository!
 
 I like making games, and solving coding challenges, especially Project Euler, to better my understanding.
 
